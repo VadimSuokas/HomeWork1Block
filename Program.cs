@@ -35,7 +35,6 @@ void ShowStringArray(string[] array)
    Console.WriteLine();
 }
 
-
 string[] myString = {"hello", "2", "world", ":-)"}; //{"1234", "1567", "-2", "computer science"}; {"Russia", "Denmark", "Kazan"};
 int size = NumberOfLines(myString);
 
